@@ -11,6 +11,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <project.scm.id>fa993-github-repository</project.scm.id>
     </properties>
 
     <profiles>
@@ -54,7 +55,7 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/my-org/my-project.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/fa993/synced.git</developerConnection>
     </scm>
 
     <build>
