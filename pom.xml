@@ -4,7 +4,7 @@
 
     <groupId>com.fa3</groupId>
     <artifactId>synced</artifactId>
-    <version>1.1.6-SNAPSHOT</version>
+    <version>1.1.6</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -54,7 +54,8 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/fa993/synced.git</developerConnection>
-    </scm>
+      <tag>synced-1.1.6</tag>
+  </scm>
 
     <build>
         <plugins>
