@@ -17,7 +17,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">synced</h3>
 
   <p align="center">
     project_description
@@ -178,7 +178,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Ameya Kore - kore.ameya@gmail.com
 
 Project Link: [https://github.com/fa993/synced](https://github.com/fa993/synced)
 
@@ -211,7 +211,7 @@ Project Link: [https://github.com/fa993/synced](https://github.com/fa993/synced)
 [license-shield]: https://img.shields.io/github/license/fa993/synced.svg
 [license-url]: https://github.com/fa993/synced/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/ameya-kore-925620239
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
