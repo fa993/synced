@@ -1,6 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-[![Tests][ci-shield]]
+![Tests][ci-shield]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/fa993/synced">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,14 +22,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/fa993/synced"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/fa993/synced">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/fa993/synced/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/fa993/synced/issues">Request Feature</a>
   </p>
 </div>
 
@@ -108,7 +108,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/fa993/synced.git
    ```
 3. Install NPM packages
    ```sh
@@ -142,7 +142,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/fa993/synced/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/fa993/synced](https://github.com/fa993/synced)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,32 +200,32 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [ci-shield]: https://img.shields.io/github/actions/workflow/status/fa993/synced/maven.yml
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[contributors-shield]: https://img.shields.io/github/contributors/fa993/synced.svg
+[contributors-url]: https://github.com/fa993/synced/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fa993/synced.svg
+[forks-url]: https://github.com/fa993/synced/network/members
+[stars-shield]: https://img.shields.io/github/stars/fa993/synced.svg
+[stars-url]: https://github.com/fa993/synced/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fa993/synced.svg
+[issues-url]: https://github.com/fa993/synced/issues
+[license-shield]: https://img.shields.io/github/license/fa993/synced.svg
+[license-url]: https://github.com/fa993/synced/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
