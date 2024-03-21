@@ -200,9 +200,9 @@ Project Link: [https://github.com/fa993/synced](https://github.com/fa993/synced)
 [maven-repo-url]: https://repo.floricaninfosoft.com:2087/#/releases/com/fa3/synced
 [contributors-shield]: https://img.shields.io/github/contributors/fa993/synced.svg
 [contributors-url]: https://github.com/fa993/synced/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fa993/synced.svg
+[forks-shield]: https://img.shields.io/github/forks/fa993/synced.svg?style=flat
 [forks-url]: https://github.com/fa993/synced/network/members
-[stars-shield]: https://img.shields.io/github/stars/fa993/synced.svg
+[stars-shield]: https://img.shields.io/github/stars/fa993/synced.svg?style=flat
 [stars-url]: https://github.com/fa993/synced/stargazers
 [issues-shield]: https://img.shields.io/github/issues/fa993/synced.svg
 [issues-url]: https://github.com/fa993/synced/issues
