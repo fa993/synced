@@ -1,7 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 [![Maven][maven-repo-shield]][maven-repo-url]
-![Tests][ci-shield]
+[![Tests][ci-shield]][ci-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -195,6 +195,7 @@ Project Link: [https://github.com/fa993/synced](https://github.com/fa993/synced)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [ci-shield]: https://img.shields.io/github/actions/workflow/status/fa993/synced/maven.yml
+[ci-url]: https://github.com/fa993/synced/actions/workflows/maven.yml
 [maven-repo-shield]: https://img.shields.io/badge/maven-1.1.x-green
 [maven-repo-url]: https://repo.floricaninfosoft.com:2087/#/releases/com/fa3/synced
 [contributors-shield]: https://img.shields.io/github/contributors/fa993/synced.svg
