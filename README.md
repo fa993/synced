@@ -115,7 +115,19 @@ To include this library via maven
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Initialize a persisted map:
 
+```java
+LazySyncedMap<String, String> inner = LazySyncedMap.getEagerMapEnvLike(new HashMap<>(), String.class, String.class, userDirEnvFile);
+
+// inner implements Map so all interface methods are supported
+
+// call sync to read from store
+inner.sync();
+
+//call flush to write to store
+inner.flush();
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +138,7 @@ To include this library via maven
 
 - [ ] SQLite support 
 - [ ] Redis support
+- [ ] Eager implementations of list and map
 
 See the [open issues](https://github.com/fa993/synced/issues) for a full list of proposed features (and known issues).
 
